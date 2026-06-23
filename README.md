@@ -21,3 +21,14 @@ Probamos lista:
     - Elemento 3.3
 - Elemento 4
 
+Lista ordenada:
+
+1. Elemento 1
+2. Elemento 2
+   1. Elemento 2.1
+   2. Elemento 2.2
+3. Elemento 3
+4. Elemento 4
+
+
+
